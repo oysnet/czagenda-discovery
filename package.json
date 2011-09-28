@@ -1,0 +1,13 @@
+{
+  "name": "czagenda-discovery",
+  "description": "Broadcast client/server for services autodiscovery",
+  "version": "0.0.1",
+  "homepage": "http://czagenda.org",
+  "repository": "git@git.oxys.net:czagenda-discovery",
+  "main": "server",
+  "dependencies": {
+      "mdgram": "= 0.0.3",
+      "uuid": "= 0.0.2"
+  },
+  "engines": { "node": "*" }
+}
